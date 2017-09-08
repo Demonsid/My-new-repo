@@ -1,4 +1,5 @@
 #Master edit# Hello world
+#Master edit
 =======
 # Hello world
 >>>>>>> Sprint2
